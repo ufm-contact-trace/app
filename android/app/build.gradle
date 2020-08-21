@@ -44,7 +44,7 @@ android {
 
     defaultConfig {
         applicationId "com.covidtrace.app"
-        minSdkVersion 21
+        minSdkVersion 28
         targetSdkVersion 28
         versionCode flutterVersionCode.toInteger()
         versionName flutterVersionName
